@@ -12,7 +12,7 @@ public class IndexNajmanjegElementa {
             minElement[i] = unos.nextInt();
         }
         indexNajmanjegElementa(minElement);
-        System.out.println("Index najmanjeg elementa u nizu je " + indexNajmanjegElementa(minElement));
+        System.out.println("Index najmanjeg elementa u nizu je : " + indexNajmanjegElementa(minElement));
     }
 
     public static int indexNajmanjegElementa(int[] array) {
